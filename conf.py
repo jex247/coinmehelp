@@ -16,9 +16,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'eToro Wallet'
+project = 'Coinme Wallet'
 copyright = '2025'
-author = 'Carson McCullers'
+author = 'Charles Smith'
 
 
 # The full version, including alpha/beta/rc tags
