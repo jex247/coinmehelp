@@ -11,7 +11,7 @@ How to Talk to a Real Person at Coinme Help Center
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="tel:+18704066577" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
+       <a href="tel:+18582180011" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
    </div>
 
 If you’re having issues with your **Coinme Wallet**—whether it’s with crypto transfers, account login, or verification—reaching a live support agent can make all the difference. This guide explains how to get help from the **Coinme support team**, what services they cover, and how to avoid scams.
@@ -33,7 +33,7 @@ If you’re facing any of the above, direct support can help resolve your proble
 Coinme Support Phone Number (24/7 Toll-Free)
 --------------------------------------------
 
-📞 **Call Now: +1-870-406-6577**
+📞 **Call Now: +1.858.218.0011.**
 
 This toll-free number connects you to a **live Coinme customer service agent** for:
 
@@ -64,7 +64,7 @@ How to Talk to a Real Person
 
 Follow these steps to reach a live agent fast:
 
-1. Dial **+1-870-406-6577**  
+1. Dial **+1 858,218,0011**  
 2. Follow the voice prompts for your issue  
 3. Press “0” or say “agent” to bypass menus  
 4. Have your wallet email, phone number, or transaction ID ready
@@ -87,7 +87,7 @@ Avoid Coinme Support Scams
 - Crypto payments to “verify” your account  
 - Personal info through Telegram, WhatsApp, or unsolicited calls
 
-Always verify the number: **+1-870-406-6577** is safe and toll-free.
+Always verify the number: **+1 858,218,0011** is safe and toll-free.
 
 Coinme Help Topics You Can Ask About
 -------------------------------------
@@ -105,7 +105,7 @@ FAQ: Common Coinme Support Questions
 -------------------------------------
 
 **Q1. What is Coinme's customer service number?**  
-A: The official Coinme support number is **+1-870-406-6577**, available 24/7.
+A: The official Coinme support number is **+1 858,218,0011**, available 24/7.
 
 **Q2. Can I talk to a real person at Coinme?**  
 A: Yes, just call **+1-870-406-6577** and ask to speak to a support agent.
@@ -122,7 +122,7 @@ A: Yes, logged-in users can access in-app support or submit a request online.
 Final Words: Save This Number
 ------------------------------
 
-Don’t let a small issue lock you out of your wallet. Save the official Coinme support number **+1-870-406-6577** so you can talk to a real person when you need it.
+Don’t let a small issue lock you out of your wallet. Save the official Coinme support number **+1 858,218,0011** so you can talk to a real person when you need it.
 
 You Can Also Search
 -------------------------
