@@ -1,5 +1,5 @@
 ##################
-How to Talk to a Real Person at Coinme Help Cente
+How to Talk to a Real Person at Coinme Help Center
 ##################
 
 .. meta::
